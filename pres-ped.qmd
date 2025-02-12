@@ -1,0 +1,51 @@
+---
+title: "UH-ped prosjekt"
+subtitle: ""
+format: clean-revealjs
+logo: image/FHS_3_1.png
+#css: logo.css
+title-slide-attributes: 
+  data-background-image: ""
+author:
+  - name: Sjur Fortun Øfsteng
+    orcid: 0000-0000-0000-0000
+    email: Forsvarets høgskole | CISK
+    affiliations: sofsteng@mil.no
+date: November 18, 2024
+#standalone: true
+self-contained: true
+#bibliography: bib-talk.bib
+execute: 
+  echo: false
+  warning: false
+  message: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# Hva er det du ønsker å endre med emnet?
+
+Hensikt med arbeidskravet
+
+-	Komme i gang med problemstillingen til eksamen  
+
+-	Utvikle ferdigheter i bruk av digitale verktøy
+    -Inkludere minst et annet digitalt verktøy i presentasjonen  
+
+-	Få erfaring med hverandrevurdering
+
+
+## 1.	Hva ønsker dere at studentene skal lære?
+
+- Ønsker de skal bli kvalifiserte idrettsinstruktører i forsvaret.
+
+## 2.	Hvordan gjennomføres undervisning i dag?
+
+- Varierende med reform, men på skolen her har det typisk vært fysiske økter
+
+## 3.	Hva vil dere endre ved dagens opplegg, hvorfor og hvordan?
+
+Teoretisk rammeverk må inkluderes for å oppnå læringsmålene først og fremst.
+Deretter bli en komptent 
