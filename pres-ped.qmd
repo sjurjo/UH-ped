@@ -11,7 +11,7 @@ author:
     orcid: 0000-0000-0000-0000
     email: Forsvarets høgskole | CISK
     affiliations: sofsteng@mil.no
-date: November 18, 2024
+date: March 7, 2025
 #standalone: true
 self-contained: true
 #bibliography: bib-talk.bib
@@ -23,29 +23,223 @@ editor_options:
   chunk_output_type: console
 ---
 
+# Hva er det du ønsker å endre med emnet? {.smaller background-color="#107895" visibility="hidden"}
 
+frie moduler: 4 læringsdesign, 7 underviserrollen, 9 fasilitere for praktisk læring
 
-# Hva er det du ønsker å endre med emnet?
+sjekk ut oppgaven fra Oslo Met
 
 Hensikt med arbeidskravet
 
--	Komme i gang med problemstillingen til eksamen  
+-   Komme i gang med problemstillingen til eksamen
 
--	Utvikle ferdigheter i bruk av digitale verktøy
-    -Inkludere minst et annet digitalt verktøy i presentasjonen  
+-   Utvikle ferdigheter i bruk av digitale verktøy -Inkludere minst et annet digitalt verktøy i presentasjonen
 
--	Få erfaring med hverandrevurdering
+-   Få erfaring med hverandrevurdering
 
+## 1. Hva ønsker dere at studentene skal lære? {.smaller background-color="#107895"}
 
-## 1.	Hva ønsker dere at studentene skal lære?
+-   Ønsker de skal bli kvalifiserte idrettsinstruktører i forsvaret.
 
-- Ønsker de skal bli kvalifiserte idrettsinstruktører i forsvaret.
+::: fragment
+-   For dette oppnås,
+    -   kreves det teoretisk kunnskap og praktiske ferdigheter som danner en kompetanse som legger til rette for å gjennomføre hensiktsmessig trening i forsvaret
+:::
 
-## 2.	Hvordan gjennomføres undervisning i dag?
+::::::::: columns
+:::: {.column width="25%"}
+::: fragment
+Kunnskap +
+:::
+::::
 
-- Varierende med reform, men på skolen her har det typisk vært fysiske økter
+:::: {.column width="25%"}
+::: fragment
+Ferdigheter =
+:::
+::::
 
-## 3.	Hva vil dere endre ved dagens opplegg, hvorfor og hvordan?
+:::: {.column width="25%"}
+::: fragment
+Ønsket Kompetanse
+:::
+::::
+:::::::::
 
-Teoretisk rammeverk må inkluderes for å oppnå læringsmålene først og fremst.
-Deretter bli en komptent 
+::: notes
+-   Ferdigheter er ikke noe man har, men noe som må trenes på over tid. Dermed gode læringsaktiviteter som stimulerer til denne ferdigheten er viktig.
+:::
+
+## Læringsmål {.smaller background-color="#107895"}
+
+Av studieplanen fremgår det at militær idrett og trening er et gjennomgående emne uten studiepoeng med følgende læringsutbytter:
+
+::: fragment
+Hvilke læringsverb har emnet?
+:::
+
+:::::::: columns
+::::: column
+::: {.fragment .fade-in-then-semi-out}
+-   [Kunnskap]{style="color:yellow;"} om grunnleggende treningslære, og skadeforebygging og [forstår]{style="color:yellow;"} hvordan dette spiller inn i et helseperspektiv og i en militær sammenheng
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+-   Selvstendig [anvende]{style="color:yellow;"} teori om treningslære, kosthold og skadeforebygging for å oppfylle kravene Forsvaret stiller til styrke og utholdenhet
+:::
+:::::
+
+:::: column
+::: fragment
+-   [Trene]{style="color:yellow;"} seg **selv** og **andre**, og kan [iverksette]{style="color:yellow;"} tiltak for å nå individuelle eller avdelingens mål i forhold til fysisk form og robusthet
+
+-   [Forstå]{style="color:yellow;"} viktigheten av fysisk trening og betydningen av dette inn mot de krav Forsvaret stiller til fysisk yteevne og robusthet.
+:::
+::::
+::::::::
+
+::: notes
+-   Læringsverbene setter føringene for hvordan læringsaktivitetene skal utvikles
+
+[yellow]{style="color:green;"}
+:::
+
+## Læringsaktiviteter og vurderingsform {.smaller background-color="#107895"}
+
+:::::: columns
+::: column
+Læringsaktiviteter utgjøres av:
+
+-   Teoretiske og praktiske leksjoner/fysisk trening i form av fellesøkter eller egentrening. To økter på timer tilstrebes hver uke det ikke er planlagt øvelser eller eksterne kurs av lengre varighet.
+:::
+
+:::: column
+Vurderingsform:
+
+::: fragment
+[Arbeidskrav og vurdering under studiet:]{style="color:yellow;"}\
+[Bestå fysisk test i 2., 4., og 6. semester]{style="color:yellow;"}
+
+-   Fysiske tester i 2., 4., og 6. semester som må bestås
+
+-   Merkeprøver i ski, skiskyting og infanteriløp.
+
+-   Pensum: Militær fysisk trening 1
+:::
+::::
+::::::
+
+::: notes
+-   Brei, lite spesifikt beskrivende inn mot læringsverbene.
+
+-   
+:::
+
+## 2. Hvordan gjennomføres undervisning i dag? {.smaller background-color="#107895"}
+
+- Varierende med reform, men på skolen her har det typisk vært fysiske økter,
+
+- Men læringsmålene henger ikke sammen med læringsaktivter eller vurderingsform per dags dato
+
+    -   Sett inn læringsmålene i en slide
+
+::: fragment
+- De måles/vurderes i dag primært på FK tester - dvs. jeg vet ingenting om deres kunnskap og forståelse for treningslære  
+
+- Hvordan de anvender teori i utarbeidingen av treningsplaner/økter  
+
+- Vet egentlig lite om deres kompetanse  
+
+*Kunnskap + Ferdigheter = Kompetanse*
+
+:::
+
+## 3. Hva vil dere endre ved dagens opplegg, hvorfor og hvordan? {.smaller background-color="#107895"}
+
+-   Teoretisk rammeverk må inkluderes for å oppnå læringsmålene først og fremst (kunnskap).
+
+-   Deretter knytte teori og praksi sammen gjennom noen arb.krav og muligens digital undervisingsvideoer.
+
+-   Over de tre årene skal de bli mer *selvstendige* og kunne utarbeide og legge til rette for å nå noen treningsmål som er satt på seg selv og som lag.
+
+::: fragment
+-   Hvorfor:
+    -   Aktiv læring - metakognisjon
+    -   Dybdeforståelse
+    -   Måles på det de faktisk skal lære seg (samstemt)
+:::
+
+::: notes
+-   Meta kognisjon: reflektere over tankeprosesser
+:::
+
+## Forslag på læringsaktiviteter som stuimulerer til læringsmålene (læringsverbene) {.smaller background-color="#107895"}
+
+::::::::::::: columns
+::::::: column
+Læringsverbene:
+
+::: {.fragment fragment-index="1"}
+1. Å ha kunnskap
+:::
+
+::: {.fragment fragment-index="2"}
+2. Å forstå
+:::
+
+::: {.fragment fragment-index="3"}
+3. Å anvende
+:::
+
+::: {.fragment fragment-index="4"}
+4. Å trene og iverksette
+:::
+:::::::
+
+::::::: column
+Læringsaktiviteter:
+
+::: {.fragment fragment-index="1"}
+-   Kunnskap tilegnelse gjennom korte leksjoner (i.e video leksjoner \~ 10 min)
+:::
+
+::: {.fragment fragment-index="2"}
+-   Arb.krav - treningsplaner for å forbedre fysisk kapsisteter
+:::
+
+::: {.fragment fragment-index="3"}
+-   Anvende kunnskap i utarbeding av sine treningsplaner for å forbedre styrke og utholdenhets kapasiteter
+:::
+
+::: {.fragment fragment-index="4"}
+-   Bruke treningsplanen til å gjennomføre noen eksempeløkter
+:::
+:::::::
+:::::::::::::
+
+::: notes
+:::
+
+## Formål med emnet militær idrett og trening etter 3 år {.smaller background-color="#107895"}
+
+::: r-stack
+![](slides/samstemt1.png){.fragment fragment-index="1"}
+
+![](slides/samstemt2.png){.fragment fragment-index="2"}
+
+![](slides/samstemt3.png){.fragment fragment-index="3"}
+:::
+
+::: notes
+:::
+
+##  {visibility="hidden"}
+
+Eksamensoppgave (3000 ord):
+
+1.  Beskriv kort hvordan området per nå løses innen emne(r) i utdanningsløpet og vurder pedagogiske utfordringer og utviklingsmuligheter ved nåværende opplegg. Formuler en problemstilling basert på dette.
+2.  Foreslå metodeforbedringer og utform plan for gjennomføring/revisjon med pedagogisk/fagdidaktisk begrunnelse.
+3.  Drøft de foreslåtte forbedringene og reflekter over din egen rolle som underviser. \[Del 3 skal være mest omfattende\].
+
+-   Flipped class room approach. Digitalisering er viktig i såhensende.
+-   Heller ikke undergrave det tradisjonelle, men bruk det mer hensiktsmessig i undervisningen.
